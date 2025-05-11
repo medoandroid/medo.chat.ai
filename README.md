@@ -11,7 +11,7 @@
 
 1. استنساخ المستودع:
 
-   git clone https://github.com/YOUR_USERNAME/medo_chat_ai.git
+   git clone https://github.com/medoandroid/medo_chat_ai.git
    cd medo_chat_ai
 
 2. تثبيت المتطلبات:
